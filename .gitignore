@@ -1,0 +1,11 @@
+jwks
+*.o
+*.gcov
+*.gcda
+*.gcno
+totally_not_my_privateKeys.db
+valid_private.pem
+expired_private.pem
+__pycache__/
+sqlite-amalgamation-3450000/
+sqlite-amalgamation-3450000.zip
